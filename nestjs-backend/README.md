@@ -29,3 +29,7 @@ $ npm run test:e2e
 # test coverage
 $ npm run test:cov
 ```
+
+## Swagger Doc
+
+Navigate to [localhost:3000/api](http://localhost:3000/api)
